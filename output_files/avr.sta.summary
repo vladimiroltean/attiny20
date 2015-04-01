@@ -1,0 +1,61 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'cpu:avr|control_unit:control|ack'
+Slack : -12.820
+TNS   : -202.060
+
+Type  : Slow Model Setup 'p|altpll_component|pll|clk[0]'
+Slack : -10.899
+TNS   : -13695.049
+
+Type  : Slow Model Hold 'cpu:avr|control_unit:control|ack'
+Slack : -5.894
+TNS   : -86.454
+
+Type  : Slow Model Hold 'p|altpll_component|pll|clk[0]'
+Slack : -3.465
+TNS   : -1627.523
+
+Type  : Slow Model Minimum Pulse Width 'cpu:avr|control_unit:control|ack'
+Slack : -1.589
+TNS   : -272.372
+
+Type  : Slow Model Minimum Pulse Width 'p|altpll_component|pll|clk[0]'
+Slack : 17.872
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'CLOCK_27'
+Slack : 18.518
+TNS   : 0.000
+
+Type  : Fast Model Setup 'cpu:avr|control_unit:control|ack'
+Slack : -5.298
+TNS   : -82.980
+
+Type  : Fast Model Setup 'p|altpll_component|pll|clk[0]'
+Slack : -4.984
+TNS   : -5786.448
+
+Type  : Fast Model Hold 'cpu:avr|control_unit:control|ack'
+Slack : -2.916
+TNS   : -42.994
+
+Type  : Fast Model Hold 'p|altpll_component|pll|clk[0]'
+Slack : -1.768
+TNS   : -1170.871
+
+Type  : Fast Model Minimum Pulse Width 'cpu:avr|control_unit:control|ack'
+Slack : -0.395
+TNS   : -59.254
+
+Type  : Fast Model Minimum Pulse Width 'p|altpll_component|pll|clk[0]'
+Slack : 17.872
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'CLOCK_27'
+Slack : 18.518
+TNS   : 0.000
+
+------------------------------------------------------------

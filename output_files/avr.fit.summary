@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Jan  1 22:00:22 2015
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : avr
+Top-level Entity Name : altera
+Family : Cyclone II
+Device : EP2C35F672C6
+Timing Models : Final
+Total logic elements : 4,119 / 33,216 ( 12 % )
+    Total combinational functions : 3,407 / 33,216 ( 10 % )
+    Dedicated logic registers : 2,112 / 33,216 ( 6 % )
+Total registers : 2112
+Total pins : 425 / 475 ( 89 % )
+Total virtual pins : 0
+Total memory bits : 28,672 / 483,840 ( 6 % )
+Embedded Multiplier 9-bit elements : 4 / 70 ( 6 % )
+Total PLLs : 1 / 4 ( 25 % )
