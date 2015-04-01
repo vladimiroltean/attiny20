@@ -1,0 +1,8 @@
+!xilinx/ise/nexys/nexys_top.ucf
+!xilinx/ise/nexys/schelet.xise
+!xilinx/ise/nexys/wave.wcfg
+xilinx/ise/*
+!altera/quartus/de2/avr.qpf
+!altera/quartus/de2/avr.qsf
+!altera/quartus/de2/avr.qws
+altera/quartus/*
