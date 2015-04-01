@@ -1,8 +1,9 @@
-xilinx/ise/nexys/
+*.bak
+xilinx/ise/nexys/*
 !xilinx/ise/nexys/nexys_top.ucf
 !xilinx/ise/nexys/schelet.xise
 !xilinx/ise/nexys/wave.wcfg
-altera/quartus/*
+altera/quartus/de2/*
 !altera/quartus/de2/avr.qpf
 !altera/quartus/de2/avr.qsf
 !altera/quartus/de2/avr.qws
