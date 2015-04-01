@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/media/aldi/Little Seagate/Scoala/Facultate/nesortate/verilog/rezolvare/cpu_test_isim_beh.exe" -prj "/media/aldi/Little Seagate/Scoala/Facultate/nesortate/verilog/rezolvare/cpu_test_beh.prj" "work.cpu_test" "work.glbl" 
